@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+cvxpy
+clarabel
+POT
+pytest
+# optional: HJ grid timing in experiments/scaling.py (install with --no-deps + jax[cpu], flax)
+# hj_reachability

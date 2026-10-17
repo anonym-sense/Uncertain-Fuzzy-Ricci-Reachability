@@ -1,0 +1,30 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# run logs, locks, local installs (contain machine paths)
+experiments/logs/
+*.lock
+julia/install.log
+# private material: the original prior paper and its full reference are never published
+*.pdf
+!experiments/figs/*.pdf
+paper1/refs_private.bib
+# secrets
+.env
+*.pem
+*.key
+# editor / OS
+.vscode/
+.idea/
+Thumbs.db
+
+# JuliaReach chain N>=3 results invalid until the TMJets NaN issue is fixed
+experiments/results/chain[3-9]__jr_*
+experiments/results/chain10__jr_*
+
+# drafts, plans and theory notes are kept private
+paper1/
+paper2/
+theory/
