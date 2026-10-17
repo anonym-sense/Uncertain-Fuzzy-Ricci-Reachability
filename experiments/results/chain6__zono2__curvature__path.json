@@ -1,0 +1,64 @@
+{
+  "alpha_star": 0.8039023437500001,
+  "engine": "UTR-Z2",
+  "budget": 256,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 1,
+      "time": 33.554524999985006
+    },
+    {
+      "alpha": 0.49955,
+      "safe": true,
+      "cells": 5,
+      "time": 236.004486299993
+    },
+    {
+      "alpha": 0.749275,
+      "safe": true,
+      "cells": 23,
+      "time": 939.2641895999841
+    },
+    {
+      "alpha": 0.8741375,
+      "safe": false,
+      "cells": 48,
+      "time": 1224.6084070999932
+    },
+    {
+      "alpha": 0.8117062500000001,
+      "safe": false,
+      "cells": 50,
+      "time": 24914.2945398
+    },
+    {
+      "alpha": 0.7804906250000001,
+      "safe": true,
+      "cells": 35,
+      "time": 754.3334127999842
+    },
+    {
+      "alpha": 0.7960984375000001,
+      "safe": true,
+      "cells": 45,
+      "time": 996.0676726999809
+    },
+    {
+      "alpha": 0.8039023437500001,
+      "safe": true,
+      "cells": 60,
+      "time": 1145.6148489000043
+    }
+  ],
+  "benchmark": "chain6",
+  "n": 12,
+  "p": 2,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 30251.94502689998,
+  "label": "LOW",
+  "label_membership": 0.7843906249999995,
+  "measure_bound": 0.19609765624999986
+}

@@ -185,7 +185,7 @@ def fig_landscape():
 
 
 if __name__ == "__main__":
-    md = ["# Paper 1 results summary", "", "## Main table (certified alpha*)", *main_table(), "",
+    md = ["# Results summary", "", "## Main table (certified alpha*)", *main_table(), "",
           "## Split ablation (alpha*, cells)", *split_table(), "",
           "## SOTA comparison (alpha* / wall time)", *sota_table()]
     (RES / "summary.md").write_text("\n".join(md))

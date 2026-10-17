@@ -8,52 +8,52 @@
   "stats": [
     {
       "alpha": 0.0001,
-      "cells": 1,
+      "cells": 32,
       "safe": true,
-      "time": 5.8938434
+      "time": 151.4369294
     },
     {
       "alpha": 0.49955,
-      "cells": 1,
+      "cells": 206,
       "safe": true,
-      "time": 4.3135435
+      "time": 964.2251332
     },
     {
       "alpha": 0.749275,
-      "cells": 313,
+      "cells": 283,
       "safe": false,
-      "time": 1499.9942645
+      "time": 989.4306024
     },
     {
       "alpha": 0.6244125,
-      "cells": 290,
+      "cells": 259,
       "safe": false,
-      "time": 1448.6719112
+      "time": 898.4119292
     },
     {
       "alpha": 0.56198125,
-      "cells": 1,
+      "cells": 256,
       "safe": true,
-      "time": 2.9521334
+      "time": 735.2657341
     },
     {
       "alpha": 0.5931968750000001,
-      "cells": 1,
+      "cells": 256,
       "safe": true,
-      "time": 2.8835986
+      "time": 24027.9644913
     },
     {
       "alpha": 0.6088046875,
-      "cells": 1,
+      "cells": 256,
       "safe": true,
-      "time": 3.0887842
+      "time": 469.7905569
     },
     {
       "alpha": 0.6166085937500001,
-      "cells": 3,
+      "cells": 256,
       "safe": true,
-      "time": 14.3714256
+      "time": 507.1128295
     }
   ],
-  "wall_time": 2986.2726397
+  "wall_time": 28743.6573838
 }

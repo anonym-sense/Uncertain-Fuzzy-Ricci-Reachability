@@ -1,0 +1,15 @@
+{
+  "alpha_star": 0.64099580078125,
+  "engine": "HJ (hj_reachability)",
+  "benchmark": "van_der_pol",
+  "grid": [
+    101,
+    101,
+    11,
+    11
+  ],
+  "wall_time": 433.71107140003005,
+  "n": 2,
+  "p": 2,
+  "sound": false
+}
