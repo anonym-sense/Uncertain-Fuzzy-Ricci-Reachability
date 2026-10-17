@@ -1,0 +1,70 @@
+{
+  "alpha_star": 0.9677843749999999,
+  "engine": "zonotope",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 1,
+      "time": 2.4983222000009846
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 635,
+      "time": 50.712283800006844
+    },
+    {
+      "alpha": 0.49955,
+      "safe": true,
+      "cells": 1,
+      "time": 3.6242174000071827
+    },
+    {
+      "alpha": 0.749275,
+      "safe": true,
+      "cells": 1,
+      "time": 3.43291470000986
+    },
+    {
+      "alpha": 0.8741375,
+      "safe": true,
+      "cells": 1,
+      "time": 3.2736449999792967
+    },
+    {
+      "alpha": 0.93656875,
+      "safe": true,
+      "cells": 1,
+      "time": 2.462791700003436
+    },
+    {
+      "alpha": 0.9677843749999999,
+      "safe": true,
+      "cells": 1,
+      "time": 2.48333369998727
+    },
+    {
+      "alpha": 0.9833921875,
+      "safe": false,
+      "cells": 522,
+      "time": 56.41285500000231
+    },
+    {
+      "alpha": 0.97558828125,
+      "safe": false,
+      "cells": 556,
+      "time": 106.52988570000161
+    }
+  ],
+  "benchmark": "acc",
+  "n": 3,
+  "p": 3,
+  "split": "sensitivity",
+  "semantics": "path",
+  "wall_time": 231.51919969997834,
+  "label": "VERY LOW",
+  "label_membership": 0.8711374999999997,
+  "measure_bound": 0.03221562500000008
+}

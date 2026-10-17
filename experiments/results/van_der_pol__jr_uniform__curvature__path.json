@@ -1,0 +1,59 @@
+{
+  "alpha_star": 0.6088046875,
+  "benchmark": "van_der_pol",
+  "budget": 1024,
+  "engine": "JuliaReach-TMJets/uniform",
+  "n": 2,
+  "p": 2,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "cells": 1,
+      "safe": true,
+      "time": 3.1529181
+    },
+    {
+      "alpha": 0.49955,
+      "cells": 10,
+      "safe": true,
+      "time": 71.1579913
+    },
+    {
+      "alpha": 0.749275,
+      "cells": 232,
+      "safe": false,
+      "time": 1327.8673602
+    },
+    {
+      "alpha": 0.6244125,
+      "cells": 238,
+      "safe": false,
+      "time": 1372.9416805
+    },
+    {
+      "alpha": 0.56198125,
+      "cells": 23,
+      "safe": true,
+      "time": 157.0502593
+    },
+    {
+      "alpha": 0.5931968750000001,
+      "cells": 56,
+      "safe": true,
+      "time": 360.396493
+    },
+    {
+      "alpha": 0.6088046875,
+      "cells": 81,
+      "safe": true,
+      "time": 446.6862494
+    },
+    {
+      "alpha": 0.6166085937500001,
+      "cells": 20,
+      "safe": false,
+      "time": 23591.3663155
+    }
+  ],
+  "wall_time": 27334.3845087
+}

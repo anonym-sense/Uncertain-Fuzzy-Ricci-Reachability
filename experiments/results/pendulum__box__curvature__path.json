@@ -1,0 +1,22 @@
+{
+  "alpha_star": 0.0,
+  "engine": "alpha-cut interval",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": false,
+      "cells": 1024,
+      "time": 4.558232399984263
+    }
+  ],
+  "benchmark": "pendulum",
+  "n": 2,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 4.601232800021535,
+  "label": "VERY HIGH",
+  "label_membership": 1.0,
+  "measure_bound": 1.0
+}

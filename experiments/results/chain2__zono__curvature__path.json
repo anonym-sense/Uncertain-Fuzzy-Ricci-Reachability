@@ -1,0 +1,70 @@
+{
+  "alpha_star": 0.6088046875,
+  "engine": "zonotope",
+  "budget": 256,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 1,
+      "time": 1.511926199978916
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 282,
+      "time": 19.87379700000747
+    },
+    {
+      "alpha": 0.49955,
+      "safe": true,
+      "cells": 7,
+      "time": 10.025376299978234
+    },
+    {
+      "alpha": 0.749275,
+      "safe": false,
+      "cells": 385,
+      "time": 27.88989109999966
+    },
+    {
+      "alpha": 0.6244125,
+      "safe": false,
+      "cells": 283,
+      "time": 50.83447279999382
+    },
+    {
+      "alpha": 0.56198125,
+      "safe": true,
+      "cells": 9,
+      "time": 16.448283099976834
+    },
+    {
+      "alpha": 0.5931968750000001,
+      "safe": true,
+      "cells": 31,
+      "time": 34.934366400004365
+    },
+    {
+      "alpha": 0.6088046875,
+      "safe": true,
+      "cells": 129,
+      "time": 54.736828099994455
+    },
+    {
+      "alpha": 0.6166085937500001,
+      "safe": false,
+      "cells": 278,
+      "time": 32.84566650001216
+    }
+  ],
+  "benchmark": "chain2",
+  "n": 4,
+  "p": 2,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 249.1480320999981,
+  "label": "MEDIUM",
+  "label_membership": 0.5647812499999998,
+  "measure_bound": 0.39119531249999995
+}

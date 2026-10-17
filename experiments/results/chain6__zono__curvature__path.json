@@ -1,0 +1,70 @@
+{
+  "alpha_star": 0.7570789062500001,
+  "engine": "zonotope",
+  "budget": 256,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 1,
+      "time": 7.446544700011145
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 512,
+      "time": 76.22013150001294
+    },
+    {
+      "alpha": 0.49955,
+      "safe": true,
+      "cells": 16,
+      "time": 36.36441559999366
+    },
+    {
+      "alpha": 0.749275,
+      "safe": true,
+      "cells": 190,
+      "time": 79.1896490000072
+    },
+    {
+      "alpha": 0.8741375,
+      "safe": false,
+      "cells": 320,
+      "time": 49.40858439999283
+    },
+    {
+      "alpha": 0.8117062500000001,
+      "safe": false,
+      "cells": 340,
+      "time": 49.714449899998726
+    },
+    {
+      "alpha": 0.7804906250000001,
+      "safe": false,
+      "cells": 300,
+      "time": 42.90104150000843
+    },
+    {
+      "alpha": 0.7648828125,
+      "safe": false,
+      "cells": 260,
+      "time": 39.573315699992236
+    },
+    {
+      "alpha": 0.7570789062500001,
+      "safe": true,
+      "cells": 206,
+      "time": 45.635302799986675
+    }
+  ],
+  "benchmark": "chain6",
+  "n": 12,
+  "p": 2,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 426.57343779999064,
+  "label": "LOW",
+  "label_membership": 0.9716843749999997,
+  "measure_bound": 0.24292109374999993
+}

@@ -1,0 +1,59 @@
+{
+  "alpha_star": 0.74147109375,
+  "benchmark": "chain1",
+  "budget": 256,
+  "engine": "JuliaReach-TMJets/uniform",
+  "n": 2,
+  "p": 2,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "cells": 1,
+      "safe": true,
+      "time": 1.0557018
+    },
+    {
+      "alpha": 0.49955,
+      "cells": 1,
+      "safe": true,
+      "time": 1.0347871
+    },
+    {
+      "alpha": 0.749275,
+      "cells": 328,
+      "safe": false,
+      "time": 640.5268862
+    },
+    {
+      "alpha": 0.6244125,
+      "cells": 1,
+      "safe": true,
+      "time": 1.0911631
+    },
+    {
+      "alpha": 0.68684375,
+      "cells": 1,
+      "safe": true,
+      "time": 1.1071627
+    },
+    {
+      "alpha": 0.7180593749999999,
+      "cells": 2,
+      "safe": true,
+      "time": 3.5111603
+    },
+    {
+      "alpha": 0.7336671875,
+      "cells": 9,
+      "safe": true,
+      "time": 25.1572904
+    },
+    {
+      "alpha": 0.74147109375,
+      "cells": 57,
+      "safe": true,
+      "time": 151.7656968
+    }
+  ],
+  "wall_time": 826.2263054
+}

@@ -1,0 +1,22 @@
+{
+  "alpha_star": 0.0,
+  "engine": "alpha-cut interval",
+  "budget": 1024,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": false,
+      "cells": 2048,
+      "time": 14.26500600000145
+    }
+  ],
+  "benchmark": "planar_quad",
+  "n": 6,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 14.412903399992501,
+  "label": "VERY HIGH",
+  "label_membership": 1.0,
+  "measure_bound": 1.0
+}

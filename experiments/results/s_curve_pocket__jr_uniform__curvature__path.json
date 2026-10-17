@@ -1,0 +1,23 @@
+{
+  "alpha_star": 1.0,
+  "benchmark": "s_curve_pocket",
+  "budget": 512,
+  "engine": "JuliaReach-TMJets/uniform",
+  "n": 2,
+  "p": 3,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "cells": 1,
+      "safe": true,
+      "time": 4.2533115
+    },
+    {
+      "alpha": 0.999,
+      "cells": 2,
+      "safe": true,
+      "time": 12.5756746
+    }
+  ],
+  "wall_time": 16.8356259
+}

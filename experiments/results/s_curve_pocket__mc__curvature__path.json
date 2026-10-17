@@ -1,0 +1,12 @@
+{
+  "alpha_star": 1.0,
+  "benchmark": "s_curve_pocket",
+  "n": 2,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 1.5515813000092749,
+  "label": "VERY LOW",
+  "label_membership": 1.0,
+  "measure_bound": 0.0
+}

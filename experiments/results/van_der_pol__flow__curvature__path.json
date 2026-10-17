@@ -1,0 +1,22 @@
+{
+  "alpha_star": 0.0,
+  "engine": "UTR-flow",
+  "budget": 1024,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": false,
+      "cells": 2048,
+      "time": 66.31210050001391
+    }
+  ],
+  "benchmark": "van_der_pol",
+  "n": 2,
+  "p": 2,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 66.38429730001371,
+  "label": "VERY HIGH",
+  "label_membership": 1.0,
+  "measure_bound": 1.0
+}

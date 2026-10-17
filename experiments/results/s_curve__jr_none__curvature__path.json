@@ -1,0 +1,17 @@
+{
+  "alpha_star": 0.0,
+  "benchmark": "s_curve",
+  "budget": 512,
+  "engine": "JuliaReach-TMJets/none",
+  "n": 2,
+  "p": 3,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "cells": 1,
+      "safe": false,
+      "time": 4.5164157
+    }
+  ],
+  "wall_time": 4.5239443
+}

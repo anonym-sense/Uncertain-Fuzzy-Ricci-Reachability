@@ -1,0 +1,22 @@
+{
+  "alpha_star": 0.0,
+  "engine": "zonotope",
+  "budget": 1024,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": false,
+      "cells": 2048,
+      "time": 108.68465239999932
+    }
+  ],
+  "benchmark": "van_der_pol",
+  "n": 2,
+  "p": 2,
+  "split": "sensitivity",
+  "semantics": "path",
+  "wall_time": 108.76543840000522,
+  "label": "VERY HIGH",
+  "label_membership": 1.0,
+  "measure_bound": 1.0
+}

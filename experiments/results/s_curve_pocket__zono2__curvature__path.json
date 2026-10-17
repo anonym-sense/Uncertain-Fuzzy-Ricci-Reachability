@@ -1,0 +1,28 @@
+{
+  "alpha_star": 1.0,
+  "engine": "UTR-Z2",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 1,
+      "time": 4.7496086999890395
+    },
+    {
+      "alpha": 0.999,
+      "safe": true,
+      "cells": 10,
+      "time": 21.313393500022357
+    }
+  ],
+  "benchmark": "s_curve_pocket",
+  "n": 2,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 26.113844899984542,
+  "label": "VERY LOW",
+  "label_membership": 1.0,
+  "measure_bound": 0.0
+}

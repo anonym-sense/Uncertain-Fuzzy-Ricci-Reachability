@@ -1,0 +1,64 @@
+{
+  "alpha_star": 0.6088046875,
+  "engine": "UTR-Z2",
+  "budget": 1024,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 3,
+      "time": 21.98234489999595
+    },
+    {
+      "alpha": 0.49955,
+      "safe": true,
+      "cells": 139,
+      "time": 178.31180080000195
+    },
+    {
+      "alpha": 0.749275,
+      "safe": false,
+      "cells": 1391,
+      "time": 850.4657019999868
+    },
+    {
+      "alpha": 0.6244125,
+      "safe": false,
+      "cells": 1026,
+      "time": 702.6049905999971
+    },
+    {
+      "alpha": 0.56198125,
+      "safe": true,
+      "cells": 236,
+      "time": 225.9746905999782
+    },
+    {
+      "alpha": 0.5931968750000001,
+      "safe": true,
+      "cells": 359,
+      "time": 332.8097185000079
+    },
+    {
+      "alpha": 0.6088046875,
+      "safe": true,
+      "cells": 599,
+      "time": 496.1472797000024
+    },
+    {
+      "alpha": 0.6166085937500001,
+      "safe": false,
+      "cells": 1071,
+      "time": 673.7978203000093
+    }
+  ],
+  "benchmark": "van_der_pol",
+  "n": 2,
+  "p": 2,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 3488.1390969999775,
+  "label": "MEDIUM",
+  "label_membership": 0.5647812499999998,
+  "measure_bound": 0.39119531249999995
+}

@@ -1,0 +1,71 @@
+{
+  "alpha_star": 0.9209609375,
+  "engine": "UTR-Ricci",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 1,
+      "time": 0.9967552999733016
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 1016,
+      "time": 6.518191200011643
+    },
+    {
+      "alpha": 0.49955,
+      "safe": true,
+      "cells": 4,
+      "time": 1.873922600003425
+    },
+    {
+      "alpha": 0.749275,
+      "safe": true,
+      "cells": 28,
+      "time": 3.5031387000053655
+    },
+    {
+      "alpha": 0.8741375,
+      "safe": true,
+      "cells": 136,
+      "time": 7.131839899986517
+    },
+    {
+      "alpha": 0.93656875,
+      "safe": false,
+      "cells": 527,
+      "time": 10.254083499981789
+    },
+    {
+      "alpha": 0.905353125,
+      "safe": true,
+      "cells": 240,
+      "time": 8.464967200008687
+    },
+    {
+      "alpha": 0.9209609375,
+      "safe": true,
+      "cells": 396,
+      "time": 13.575821400008863
+    },
+    {
+      "alpha": 0.92876484375,
+      "safe": false,
+      "cells": 762,
+      "time": 11.767491400009021
+    }
+  ],
+  "lmi_gamma": -2.946940179468835,
+  "benchmark": "pendulum",
+  "n": 2,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 65.37338780000573,
+  "label": "VERY LOW",
+  "label_membership": 0.6838437499999999,
+  "measure_bound": 0.07903906250000003
+}

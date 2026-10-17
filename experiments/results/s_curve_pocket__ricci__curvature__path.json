@@ -1,0 +1,71 @@
+{
+  "alpha_star": 0.218609375,
+  "engine": "UTR-Ricci",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 16,
+      "time": 6.620294099993771
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 1024,
+      "time": 10.073889599996619
+    },
+    {
+      "alpha": 0.49955,
+      "safe": false,
+      "cells": 1024,
+      "time": 15.642634799994994
+    },
+    {
+      "alpha": 0.249825,
+      "safe": false,
+      "cells": 1024,
+      "time": 21.95158769999398
+    },
+    {
+      "alpha": 0.12496249999999999,
+      "safe": true,
+      "cells": 231,
+      "time": 15.78417550001177
+    },
+    {
+      "alpha": 0.18739375,
+      "safe": true,
+      "cells": 256,
+      "time": 14.44428299998981
+    },
+    {
+      "alpha": 0.218609375,
+      "safe": true,
+      "cells": 508,
+      "time": 25.619754799990915
+    },
+    {
+      "alpha": 0.23421718749999998,
+      "safe": false,
+      "cells": 684,
+      "time": 21.385539200011408
+    },
+    {
+      "alpha": 0.22641328125,
+      "safe": false,
+      "cells": 568,
+      "time": 18.572659700002987
+    }
+  ],
+  "lmi_gamma": 0.11071934724186985,
+  "benchmark": "s_curve_pocket",
+  "n": 2,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 151.18765310000163,
+  "label": "HIGH",
+  "label_membership": 0.8744375,
+  "measure_bound": 0.781390625
+}

@@ -1,0 +1,70 @@
+{
+  "alpha_star": 0.10155078125,
+  "engine": "UTR-flow",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 32,
+      "time": 7.726198399992427
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 1024,
+      "time": 7.137207199994009
+    },
+    {
+      "alpha": 0.49955,
+      "safe": false,
+      "cells": 1024,
+      "time": 18.020544099999825
+    },
+    {
+      "alpha": 0.249825,
+      "safe": false,
+      "cells": 1024,
+      "time": 25.749510399997234
+    },
+    {
+      "alpha": 0.12496249999999999,
+      "safe": false,
+      "cells": 800,
+      "time": 47.502267600008054
+    },
+    {
+      "alpha": 0.06253125,
+      "safe": true,
+      "cells": 128,
+      "time": 15.717232499999227
+    },
+    {
+      "alpha": 0.093746875,
+      "safe": true,
+      "cells": 263,
+      "time": 31.556986599985976
+    },
+    {
+      "alpha": 0.10935468749999999,
+      "safe": false,
+      "cells": 848,
+      "time": 55.10555809998186
+    },
+    {
+      "alpha": 0.10155078125,
+      "safe": true,
+      "cells": 446,
+      "time": 63.51621719999821
+    }
+  ],
+  "benchmark": "s_curve",
+  "n": 2,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 272.0896481999953,
+  "label": "VERY HIGH",
+  "label_membership": 0.5937968749999998,
+  "measure_bound": 0.89844921875
+}

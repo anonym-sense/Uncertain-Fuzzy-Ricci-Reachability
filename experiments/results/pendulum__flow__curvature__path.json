@@ -1,0 +1,70 @@
+{
+  "alpha_star": 0.093746875,
+  "engine": "UTR-flow",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 1,
+      "time": 1.5574308999930508
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 1024,
+      "time": 3.6047349000000395
+    },
+    {
+      "alpha": 0.49955,
+      "safe": false,
+      "cells": 1024,
+      "time": 18.142804700008128
+    },
+    {
+      "alpha": 0.249825,
+      "safe": false,
+      "cells": 544,
+      "time": 18.25105939997593
+    },
+    {
+      "alpha": 0.12496249999999999,
+      "safe": false,
+      "cells": 1024,
+      "time": 26.027879399975063
+    },
+    {
+      "alpha": 0.06253125,
+      "safe": true,
+      "cells": 1,
+      "time": 1.873416200018255
+    },
+    {
+      "alpha": 0.093746875,
+      "safe": true,
+      "cells": 1,
+      "time": 1.9576952999923378
+    },
+    {
+      "alpha": 0.10935468749999999,
+      "safe": false,
+      "cells": 1024,
+      "time": 35.450241399987135
+    },
+    {
+      "alpha": 0.10155078125,
+      "safe": false,
+      "cells": 1024,
+      "time": 38.72536070001661
+    }
+  ],
+  "benchmark": "pendulum",
+  "n": 2,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 145.65089940000325,
+  "label": "VERY HIGH",
+  "label_membership": 0.6250125,
+  "measure_bound": 0.906253125
+}

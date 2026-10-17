@@ -1,0 +1,12 @@
+{
+  "alpha_star": 0.7960984375000001,
+  "benchmark": "chain3",
+  "n": 6,
+  "p": 2,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 47.82457910000812,
+  "label": "LOW",
+  "label_membership": 0.8156062499999996,
+  "measure_bound": 0.2039015624999999
+}

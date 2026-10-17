@@ -1,0 +1,116 @@
+{
+  "alpha": 0.3,
+  "cells": 8,
+  "certified_safe": true,
+  "tube": {
+    "area": 2.5506265419787666,
+    "cover": 1.0,
+    "meets_unsafe": false,
+    "margin": 0.025120772946860104
+  },
+  "hull": {
+    "area": 18.209671881694298,
+    "cover": 1.0,
+    "meets_unsafe": false,
+    "margin": 0.025120772946860104
+  },
+  "flow2020": {
+    "10": {
+      "iters": 47,
+      "area": 18.18447428681182,
+      "cover": 0.999833916083916,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104
+    },
+    "100": {
+      "iters": 470,
+      "area": 17.980373768263753,
+      "cover": 0.9561013986013986,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104
+    },
+    "1000": {
+      "iters": 4703,
+      "area": 16.521433024568317,
+      "cover": 0.7800874125874125,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104
+    },
+    "2000": {
+      "iters": 9406,
+      "area": 15.14375452436887,
+      "cover": 0.6991171328671328,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104
+    }
+  },
+  "sound": {
+    "0.05": {
+      "area": 2.713780968842807,
+      "cover": 1.0,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104,
+      "contains_tube": true,
+      "nested_in_next": 0.035283194057567316,
+      "iters": 1192,
+      "time_s": 3.964319999999134
+    },
+    "0.1": {
+      "area": 3.53585250188363,
+      "cover": 1.0,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104,
+      "contains_tube": true,
+      "nested_in_next": 0.17601995367895956,
+      "iters": 2385,
+      "time_s": 8.12044070000411
+    },
+    "0.25": {
+      "area": 3.8035769475099515,
+      "cover": 1.0,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104,
+      "contains_tube": true,
+      "nested_in_next": 0.1548526001987413,
+      "iters": 5963,
+      "time_s": 21.867581500002416
+    },
+    "0.5": {
+      "area": 4.80014182511193,
+      "cover": 1.0,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104,
+      "contains_tube": true,
+      "nested_in_next": 0.39619422572178475,
+      "iters": 11926,
+      "time_s": 45.16832950001117
+    },
+    "1.0": {
+      "area": 3.1106430882418254,
+      "cover": 1.0,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104,
+      "contains_tube": true,
+      "nested_in_next": 0.08748481166464156,
+      "iters": 23853,
+      "time_s": 85.23533840000164
+    },
+    "2.0": {
+      "area": 3.4495507394111455,
+      "cover": 1.0,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104,
+      "contains_tube": true,
+      "nested_in_next": null,
+      "iters": 47707,
+      "time_s": 162.0233373999945
+    },
+    "linguistic": {
+      "area": 5.64426125367492,
+      "cover": 1.0,
+      "meets_unsafe": false,
+      "margin": 0.025120772946860104,
+      "contains_tube": true
+    }
+  }
+}

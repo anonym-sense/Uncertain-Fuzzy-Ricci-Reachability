@@ -1,0 +1,70 @@
+{
+  "alpha_star": 0.9677843749999999,
+  "engine": "UTR-flow",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 1,
+      "time": 2.087223999988055
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 531,
+      "time": 39.567524900019635
+    },
+    {
+      "alpha": 0.49955,
+      "safe": true,
+      "cells": 1,
+      "time": 2.4224796000053175
+    },
+    {
+      "alpha": 0.749275,
+      "safe": true,
+      "cells": 1,
+      "time": 2.3872453000221867
+    },
+    {
+      "alpha": 0.8741375,
+      "safe": true,
+      "cells": 2,
+      "time": 4.683865500002867
+    },
+    {
+      "alpha": 0.93656875,
+      "safe": true,
+      "cells": 4,
+      "time": 9.616633400000865
+    },
+    {
+      "alpha": 0.9677843749999999,
+      "safe": true,
+      "cells": 9,
+      "time": 25.98684399999911
+    },
+    {
+      "alpha": 0.9833921875,
+      "safe": false,
+      "cells": 627,
+      "time": 66.05598189999
+    },
+    {
+      "alpha": 0.97558828125,
+      "safe": false,
+      "cells": 712,
+      "time": 136.9885218999989
+    }
+  ],
+  "benchmark": "acc",
+  "n": 3,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 289.8445432000153,
+  "label": "VERY LOW",
+  "label_membership": 0.8711374999999997,
+  "measure_bound": 0.03221562500000008
+}

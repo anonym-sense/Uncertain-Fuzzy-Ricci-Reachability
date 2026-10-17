@@ -1,0 +1,71 @@
+{
+  "alpha_star": 0.72586328125,
+  "engine": "UTR-Ricci",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 1,
+      "time": 1.491086299996823
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 1024,
+      "time": 12.845284000009997
+    },
+    {
+      "alpha": 0.49955,
+      "safe": true,
+      "cells": 48,
+      "time": 11.492174900020473
+    },
+    {
+      "alpha": 0.749275,
+      "safe": false,
+      "cells": 572,
+      "time": 17.46493369998643
+    },
+    {
+      "alpha": 0.6244125,
+      "safe": true,
+      "cells": 172,
+      "time": 18.799992499989457
+    },
+    {
+      "alpha": 0.68684375,
+      "safe": true,
+      "cells": 349,
+      "time": 24.459886700002244
+    },
+    {
+      "alpha": 0.7180593749999999,
+      "safe": true,
+      "cells": 452,
+      "time": 22.828063900000416
+    },
+    {
+      "alpha": 0.7336671875,
+      "safe": false,
+      "cells": 541,
+      "time": 26.98220269999001
+    },
+    {
+      "alpha": 0.72586328125,
+      "safe": true,
+      "cells": 490,
+      "time": 30.013346299994737
+    }
+  ],
+  "lmi_gamma": 4.356740537119421e-06,
+  "benchmark": "acc",
+  "n": 3,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 167.93393769999966,
+  "label": "LOW",
+  "label_membership": 0.903453125,
+  "measure_bound": 0.27413671875
+}

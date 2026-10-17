@@ -1,0 +1,70 @@
+{
+  "alpha_star": 0.32006015625,
+  "engine": "zonotope",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": true,
+      "cells": 64,
+      "time": 20.212528599979123
+    },
+    {
+      "alpha": 0.999,
+      "safe": false,
+      "cells": 1024,
+      "time": 62.63268119998975
+    },
+    {
+      "alpha": 0.49955,
+      "safe": false,
+      "cells": 544,
+      "time": 45.314782600005856
+    },
+    {
+      "alpha": 0.249825,
+      "safe": true,
+      "cells": 64,
+      "time": 20.97114369997871
+    },
+    {
+      "alpha": 0.3746875,
+      "safe": false,
+      "cells": 544,
+      "time": 64.64790179999545
+    },
+    {
+      "alpha": 0.31225625,
+      "safe": true,
+      "cells": 252,
+      "time": 64.78723539999919
+    },
+    {
+      "alpha": 0.343471875,
+      "safe": false,
+      "cells": 520,
+      "time": 49.23783130000811
+    },
+    {
+      "alpha": 0.3278640625,
+      "safe": false,
+      "cells": 524,
+      "time": 48.64717549999477
+    },
+    {
+      "alpha": 0.32006015625,
+      "safe": true,
+      "cells": 436,
+      "time": 49.1114310999983
+    }
+  ],
+  "benchmark": "s_curve",
+  "n": 2,
+  "p": 3,
+  "split": "width",
+  "semantics": "path",
+  "wall_time": 425.63579390000086,
+  "label": "HIGH",
+  "label_membership": 0.7197593749999998,
+  "measure_bound": 0.6799398437499999
+}

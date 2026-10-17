@@ -1,0 +1,22 @@
+{
+  "alpha_star": 0.0,
+  "engine": "alpha-cut interval",
+  "budget": 512,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": false,
+      "cells": 1024,
+      "time": 14.176281799998833
+    }
+  ],
+  "benchmark": "s_curve_pocket",
+  "n": 2,
+  "p": 3,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 14.21483330000774,
+  "label": "VERY HIGH",
+  "label_membership": 1.0,
+  "measure_bound": 1.0
+}

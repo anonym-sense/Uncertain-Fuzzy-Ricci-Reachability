@@ -1,0 +1,65 @@
+{
+  "alpha_star": 0.97558828125,
+  "benchmark": "pendulum",
+  "budget": 512,
+  "engine": "JuliaReach-TMJets/none",
+  "n": 2,
+  "p": 3,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "cells": 1,
+      "safe": true,
+      "time": 2.7549385
+    },
+    {
+      "alpha": 0.999,
+      "cells": 1,
+      "safe": false,
+      "time": 3.1750271
+    },
+    {
+      "alpha": 0.49955,
+      "cells": 1,
+      "safe": true,
+      "time": 2.6477297
+    },
+    {
+      "alpha": 0.749275,
+      "cells": 1,
+      "safe": true,
+      "time": 2.644782
+    },
+    {
+      "alpha": 0.8741375,
+      "cells": 1,
+      "safe": true,
+      "time": 2.5887773
+    },
+    {
+      "alpha": 0.93656875,
+      "cells": 1,
+      "safe": true,
+      "time": 2.7571395
+    },
+    {
+      "alpha": 0.9677843749999999,
+      "cells": 1,
+      "safe": true,
+      "time": 2.6543306
+    },
+    {
+      "alpha": 0.9833921875,
+      "cells": 1,
+      "safe": false,
+      "time": 2.7687726
+    },
+    {
+      "alpha": 0.97558828125,
+      "cells": 1,
+      "safe": true,
+      "time": 2.797434
+    }
+  ],
+  "wall_time": 24.7983554
+}

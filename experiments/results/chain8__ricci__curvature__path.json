@@ -1,0 +1,23 @@
+{
+  "alpha_star": 0.0,
+  "engine": "UTR-Ricci",
+  "budget": 256,
+  "stats": [
+    {
+      "alpha": 0.0001,
+      "safe": false,
+      "cells": 512,
+      "time": 15.168073699984234
+    }
+  ],
+  "lmi_gamma": -0.0970525202961118,
+  "benchmark": "chain8",
+  "n": 16,
+  "p": 2,
+  "split": "curvature",
+  "semantics": "path",
+  "wall_time": 77.32015169999795,
+  "label": "VERY HIGH",
+  "label_membership": 1.0,
+  "measure_bound": 1.0
+}
